@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Palve</h1>
-<h3 align="center">A passionate python developer from India and an Ethical Hacker</h3>
+<h3 align="center">A passionate Cybersecuirty student and a Penetration Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil1189&label=Profile%20views&color=0e75b6&style=flat" alt="akhil1189" /> </p>
 
